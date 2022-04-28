@@ -1,0 +1,25 @@
+body{
+    color: blue;
+    background-color: cadetblue;
+}
+h1 {
+    color: black;
+
+}
+h2 {
+    color: brown;
+}
+    table, th, td {
+        border: 1px solid;
+      }
+
+h3 {
+    color:burlywood ;
+}
+p {
+    font-style: italic;
+    font-size: 20px;
+
+} 
+
+   }
